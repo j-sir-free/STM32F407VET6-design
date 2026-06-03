@@ -48,7 +48,7 @@ int main(void)
 	POINT_COLOR = BLACK;
 
 	LCD_ShowString(10, 200, "Name: XXX");
-	LCD_ShowString(10, 220, "ID: 2330110188");
+	LCD_ShowString(10, 220, "ID: 2330110xxx");
 	xianshi();
 	while(1)
 	{
